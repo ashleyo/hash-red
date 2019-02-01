@@ -91,7 +91,7 @@ namespace HashingDemo_Stream
             } //while 
         } //main
 
-        //the presence of a utilty 'ToString' method is probably a strong clue that this should be
+        //the presence of a utilty 'ToString' method is pr bably a strong clue that this should be
         //a class ....
         private static string hashAsByteArrayToString(byte[] ba, int expectedLength = 20)
         {
